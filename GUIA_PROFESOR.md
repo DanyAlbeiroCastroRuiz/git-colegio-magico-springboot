@@ -131,4 +131,11 @@ public class MagoService {
 }
 ```
 
-Al terminar de codificar esto en vivo con ellos, habrán entendido la estructura y estarán listos para los Retos 1 al 4 (Hechizos).
+Al terminar de codificar esto en vivo con ellos, arranca la aplicación (habiendo descomentado el puerto 8080 en `application.properties`). 
+
+Muestra cómo **Swagger UI** detecta automáticamente la API que acaban de construir:
+1. Abre tu navegador y ve a `http://localhost:8080/swagger-ui.html`.
+2. Explícales cómo Swagger lee las anotaciones `@POST`, `@GET`, `@Path` y `@Produces` de Jakarta para construir la documentación interactiva.
+3. Envía una petición `POST` desde Swagger para crear un Mago y luego haz un `GET` para consultarlo, mostrando cómo Spring maneja automáticamente el JSON y lo guarda en H2.
+
+¡Estarán listos para los Retos 1 al 4 (Hechizos)!

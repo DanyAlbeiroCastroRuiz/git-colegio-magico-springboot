@@ -13,7 +13,8 @@
 3. Activa la "Magia del Tribunal" (GitHub Actions) en la pestaña **Actions** de tu repositorio.
 4. Completa los retos siguiendo las pistas en el código.
 5. Ejecuta las pruebas en tu entorno local usando `mvn test` o desde tu IDE para validar tus respuestas antes de hacer push.
-6. Haz `git add`, `git commit`, y `git push`. ¡El Gran Tribunal de GitHub calificará tus hechizos!
+6. **Prueba tu magia:** Puedes iniciar el servidor y probar tus hechizos ingresando a `http://localhost:8080/swagger-ui.html`.
+7. Haz `git add`, `git commit`, y `git push`. ¡El Gran Tribunal de GitHub calificará tus hechizos!
 
 ---
 
