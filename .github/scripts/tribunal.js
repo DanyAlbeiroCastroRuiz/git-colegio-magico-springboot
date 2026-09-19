@@ -28,7 +28,7 @@ const RETOS = [
     },
     {
         title: "Reto 5: Graduación Backend 🎓 (Pull Request Final)",
-        body: "🎉 **¡FELICIDADES GRAN MAGO DE BACKEND!** 🎉\n\nHas superado todos los retos de código y dominado las capas de Spring Boot y Jakarta.\n\n**Misión Final:**\n1. En tu terminal, crea una nueva rama y cámbiate a ella: `git checkout -b graduacion-backend`.\n2. Crea un archivo llamado `GRADUACION.md` con una breve reflexión de lo que aprendiste.\n3. Sube tu archivo a esta nueva rama: `git add .`, `git commit -m \"feat: graduacion completada\"` y `git push origin graduacion-backend`.\n4. Ve a tu repositorio en GitHub y abre un **Pull Request** hacia el repositorio original del colegio.\n\n¡Al hacer el Pull Request habrás terminado oficialmente tu especialización en Backend! 🎓\n\n**--CALIFICACION_AQUI--**",
+        body: "🎉 **¡FELICIDADES GRAN MAGO DE BACKEND!** 🎉\n\nHas superado todos los retos de código y dominado las capas de Spring Boot y Jakarta.\n\n**Misión Final:**\n1. En tu terminal, crea una nueva rama y cámbiate a ella: `git checkout -b graduacion-backend`.\n2. Copia el archivo `PLANTILLA_ENTREGA.md` y guárdalo dentro de la carpeta `magos_graduados` con tu nombre (ej: `magos_graduados/JUAN_PEREZ.md`). ¡Responde allí a las preguntas de reflexión!\n3. Sube tu archivo a esta nueva rama: `git add .`, `git commit -m \"feat: graduacion completada\"` y `git push origin graduacion-backend`.\n4. Ve a tu repositorio en GitHub y abre un **Pull Request** hacia el repositorio original del colegio.\n\n¡Al hacer el Pull Request habrás terminado oficialmente tu especialización en Backend! 🎓\n\n**--CALIFICACION_AQUI--**",
         testFile: null
     }
 ];
