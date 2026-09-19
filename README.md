@@ -11,7 +11,8 @@
    - Alternativamente, haz clic en el botón verde **Code**, ve a la pestaña **Codespaces** y haz clic en **Create codespace on main** para tener una terminal integrada.
 3. Activa la "Magia del Tribunal" (GitHub Actions) en la pestaña **Actions** de tu repositorio.
 4. **Reto 0 (Clase con el Profesor):** El profesor te guiará en vivo construyendo la primera entidad (`Mago`). Presta mucha atención, ya que aplicarás los mismos conceptos. Si te pierdes, la guía está en [GUIA_PROFESOR.md](./GUIA_PROFESOR.md).
-5. Completa los Retos 1 al 4 siguiendo las pistas en el código. ¡Revisa la carpeta `assets/` si necesitas ayuda con los hechizos de Git!
+5. Completa los Retos 1 al 4 siguiendo las pistas en el código. ¡Revisa la carpeta `assets/` si necesitas ayuda!
+   - [Diagrama de la Base de Datos](./assets/diagrama_bd.md) (Estructura de las tablas)
    - [Cómo usar tu varita Git (Comandos Básicos)](./assets/varita_git.md)
    - [El Grimorio de Commits](./assets/grimorio_commits.md)
    - [Guía de Pull Requests](./assets/guia_pull_request.md)
