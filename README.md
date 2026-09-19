@@ -5,16 +5,19 @@
 ## 📜 Instrucciones para Empezar
 
 1. **Haz un Fork** de este repositorio hacia tu cuenta personal.
-2. **Clona tu repositorio** en tu computadora local:
-   ```bash
-   git clone https://github.com/TU_USUARIO/colegio-magico.git
-   cd colegio-magico
-   ```
+2. **Crea tu entorno mágico (Codespace):** 
+   - No necesitas clonarlo en local. Simplemente ve a tu repositorio *forkeado* en GitHub.
+   - En la URL, cambia `github.com` por `github.dev` (o simplemente presiona la tecla `.` en tu teclado) para abrir el editor web.
+   - Alternativamente, haz clic en el botón verde **Code**, ve a la pestaña **Codespaces** y haz clic en **Create codespace on main** para tener una terminal integrada.
 3. Activa la "Magia del Tribunal" (GitHub Actions) en la pestaña **Actions** de tu repositorio.
-4. Completa los retos siguiendo las pistas en el código.
-5. Ejecuta las pruebas en tu entorno local usando `mvn test` o desde tu IDE para validar tus respuestas antes de hacer push.
-6. **Prueba tu magia:** Puedes iniciar el servidor y probar tus hechizos ingresando a `http://localhost:8080/swagger-ui.html`.
-7. Haz `git add`, `git commit`, y `git push`. ¡El Gran Tribunal de GitHub calificará tus hechizos!
+4. **Reto 0 (Clase con el Profesor):** El profesor te guiará en vivo construyendo la primera entidad (`Mago`). Presta mucha atención, ya que aplicarás los mismos conceptos. Si te pierdes, la guía está en [GUIA_PROFESOR.md](./GUIA_PROFESOR.md).
+5. Completa los Retos 1 al 4 siguiendo las pistas en el código. ¡Revisa la carpeta `assets/` si necesitas ayuda con los hechizos de Git!
+   - [Cómo usar tu varita Git (Comandos Básicos)](./assets/varita_git.md)
+   - [El Grimorio de Commits](./assets/grimorio_commits.md)
+   - [Guía de Pull Requests](./assets/guia_pull_request.md)
+6. Ejecuta las pruebas en la terminal de tu Codespace usando `mvn test` para validar tus respuestas antes de hacer push.
+7. **Prueba tu magia:** Puedes iniciar el servidor en el Codespace (`mvn spring-boot:run`) y probar tus hechizos ingresando a `/swagger-ui.html` en el puerto reenviado.
+8. Haz `git add`, `git commit`, y `git push`. ¡El Gran Tribunal de GitHub calificará tus hechizos!
 
 ---
 
