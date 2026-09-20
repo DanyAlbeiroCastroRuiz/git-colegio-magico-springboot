@@ -26,6 +26,12 @@
 
 Las puertas de acceso a los retos se encuentran en `src/main/java/com/quipux/colegio/`.
 
+### 📖 Reto 0: El Conocimiento Ancestral (Lectura de Código)
+**Misión:** Antes de empezar a programar, debes comprender el ejemplo del `Mago` desarrollado en clase.
+* Lee atentamente los archivos relacionados con el `Mago` en todos los paquetes (`models`, `dao`, `manager`, `services`).
+* Presta especial atención a los comentarios didácticos en el código; allí se explica el *por qué* y el *para qué* de las anotaciones, validaciones y de SQL vs JPA.
+* Revisa el documento [La Arquitectura del Colegio](./assets/arquitectura_capas.md) para comprender cómo se conectan todas las capas.
+
 ### ⚔️ Reto 1: El Objeto Mágico (Capa Models)
 **Misión:** Busca la clase `HechizoEntity` en el paquete `models`.
 * Añade la anotación `@Entity` para que sea una entidad de base de datos.
